@@ -21,7 +21,7 @@ with booster pull rates to estimate value per pack.
 
 ## Current status
 The model is built and validated on **Core Set 2021 (M21) draft boosters**.
-At a $6 pack cost, theoretical EV is above cost, but realizable EV is far
+At a $6 pack cost, theoretical EV is almost even with cost, but realizable EV is far
 below it. Most of the value is in bulk commons and uncommons that can't be
 sold profitably, so M21 draft boosters are worth more sealed.
 
